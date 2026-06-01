@@ -8,6 +8,8 @@ This is the repository of the lab experiments for the Compiler Design (CMP422) c
 
 [Lab 2: Lexical Analyzer for Token Recognition Using Flex](./lab02-lexical-analyzer-for-token-recognition/README.md)
 
+[Lab 3: Token Counter for Identifiers, Keywords & Operators Using Flex](./lab03-token-counter-using-flex/README.md)
+
 ## License
 
 This repository is licensed under **MIT License**. You are free to use, modify and distribute. Refer to [LICENSE](LICENSE) file for more details.

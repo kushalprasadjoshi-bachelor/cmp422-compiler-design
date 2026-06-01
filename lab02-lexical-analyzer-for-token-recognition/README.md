@@ -74,6 +74,16 @@ int yywrap() {
 
 ---
 
+## Compilation and Execution Steps
+
+```
+win_flex tokenizer.l
+gcc lex.yy.c -o tokenizer
+./tokenizer
+```
+
+---
+
 ## Sample Input and Output
 
 **Input:**
