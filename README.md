@@ -6,6 +6,8 @@ This is the repository of the lab experiments for the Compiler Design (CMP422) c
 
 [Lab 1: Deconstructing the C Compilation Pipeline](./lab01-deconstruct-c-compilation-pipeline/README.md)
 
+[Lab 2: Lexical Analyzer for Token Recognition Using Flex](./lab02-lexical-analyzer-for-token-recognition/README.md)
+
 ## License
 
 This repository is licensed under **MIT License**. You are free to use, modify and distribute. Refer to [LICENSE](LICENSE) file for more details.
